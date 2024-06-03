@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518065863924",
+    "project_id": "aicbaraka",
+    "storage_bucket": "aicbaraka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518065863924:android:13cfb4c2f4f85e212572a1",
+        "android_client_info": {
+          "package_name": "com.example.aicbaraka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVUG7T0HZZ0Zh-5dPIJtVidoNo_B2jEI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
